@@ -1,16 +1,17 @@
-## Hi there 👋
+# About Me 👋
+
+## Education 🎓
+
+BSc Computer Science @ The University of Edinburgh
+
+I am currently studying...
+* 👨‍💻 Object-Oriented Programming (INFR08029)
+* 🧠 Cognitive Science (INFR08020)
+* ♾ Calculus & its Applications (MATH08058)
 
 <!--
-**EoinOCinneide/EoinOCinneide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Experience 🧙‍♂️
+### Discord Bots (2021-23)
+Using Javascript and the Discord.js library to build moderation, multi-server-alert and helper bots.
 -->
+
